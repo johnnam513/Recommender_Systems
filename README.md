@@ -1,4 +1,7 @@
 # Recommender_Systems
 Paper implements for recommender systems
+## Netflix
+IEEE, Matrix Factorization Techniques for Recommender Systems (Yehuda Koren, Robert Bell, Chris Volinsky, 2009) \n
+KDD, Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model (Yehuda Koren, 2008)
 ## OCCF
-Collaborative Filtering for Implicit Feedback Datasets (Yifan Hu, 2008)
+IEEE, Collaborative Filtering for Implicit Feedback Datasets (Yifan Hu, Yehuda Koren, Chris Volinsky, 2008)
