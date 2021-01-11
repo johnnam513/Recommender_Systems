@@ -5,3 +5,5 @@ Paper implements for recommender systems
 #### KDD, Factorization Meets the Neighborhood: a Multifaceted Collaborative Filtering Model (Yehuda Koren, 2008)
 ## OCCF
 #### IEEE, Collaborative Filtering for Implicit Feedback Datasets (Yifan Hu, Yehuda Koren, Chris Volinsky, 2008)
+## BPR
+#### UAI, BPR: Bayesian personalized ranking from implicit feedback (Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, 2009)
