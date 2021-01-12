@@ -7,3 +7,5 @@ Paper implements for recommender systems
 #### IEEE, Collaborative Filtering for Implicit Feedback Datasets (Yifan Hu, Y. Koren, C. Volinsky, 2008)
 ## BPR
 #### UAI, BPR: Bayesian personalized ranking from implicit feedback (Steffen Rendle, C. Freudenthaler, Z. Gantner, 2009)
+## FM
+#### IEEE, Factorization Machines (Steffen Rendle, 2010)
