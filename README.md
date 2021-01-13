@@ -13,3 +13,5 @@ Paper implements for recommender systems
 #### NIPS'08, Probabilistic Matrix Factorization (Ruslan Salkhutdinov, A.Mnih)
 ## SoRec
 #### CIKM'08, SoRec: Social Recommendation Using Probabilistic Matrix Factorization (Hao Ma, H. Yang, M. R. Lyu, I. King)
+## SoReg
+#### WSDM'11, Recommender Systems with Social Regularization (Hao Ma, D. Zhou, C. Liu, M. R. Lyu, I. King)
